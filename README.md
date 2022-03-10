@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **ISaidCode!** blog
 
-- 📝 I regularly write articles on [https://dev.to/moose_said](https://dev.to/moose_said)
-
 - 💬 Ask me about **Laravel, Vue and Tailwind**
 
 - 📫 How to reach me **mostafasaid1994@gmail.com**
+
+- 📝 I regularly write articles on [https://dev.to/moose_said](https://dev.to/moose_said)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
