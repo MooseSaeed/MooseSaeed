@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/moose_said" target="blank"><img src="https://img.shields.io/twitter/follow/moose_said?logo=twitter&style=for-the-badge" alt="moose_said" /></a> </p>
 
-- 🔭 I’m currently working on [ISaidCode! blog](Will be live soon)
+- 🔭 I’m currently working on **ISaidCode!** blog
 
 - 📝 I regularly write articles on [https://dev.to/moose_said](https://dev.to/moose_said)
 
