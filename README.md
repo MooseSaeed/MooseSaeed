@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Said</h1>
 <h3 align="center">I'm a Business Operations Specialist who loves Web Development. Both fields are not so different so I'm passionate to provide value and contribute to the community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moosesaeed&label=Profile%20views&color=0e75b6&style=flat" alt="moosesaeed" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moosesaeed" alt="moosesaeed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/moose_said" target="blank"><img src="https://img.shields.io/twitter/follow/moose_said?logo=twitter&style=for-the-badge" alt="moose_said" /></a> </p>
