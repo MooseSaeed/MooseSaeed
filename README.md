@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [BeReadable - Online Multilingual Audio Transcription and Recorder](https://dev.to/moose_said/bereadable-online-multilingual-audio-transcription-and-recorder-a8a)
 - [How I Used Forem API to Fetch Dev.to in Laravel 9](https://dev.to/moose_said/how-i-used-forem-api-to-fetch-devto-in-laravel-9-2p0d)
 - [Build Audience with Mailchimp API for Free Using Laravel](https://dev.to/moose_said/build-audience-with-mailchimp-api-for-free-using-laravel-n79)
 - [Make Reusable and Animated  Drop-down with Vue, Tailwind and Laravel](https://dev.to/moose_said/make-reusable-and-animated-drop-down-with-vue-tailwind-and-laravel-4fp3)
-- [Create Dynamic Drop-down component with Vue 3, Tailwind CSS and Laravel 9](https://dev.to/moose_said/create-dynamic-drop-down-component-with-vue-3-tailwind-css-and-laravel-9-2k4o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
