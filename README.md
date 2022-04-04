@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Vocal Commands to Apply Markdown to Your Article!](https://dev.to/moose_said/use-vocal-commands-to-apply-markdown-to-your-article-99)
 - [Watch Youtube, Vimeo and Local Videos With Immediate Audio Transcription](https://dev.to/moose_said/online-video-streamer-and-audio-transcription-2ein)
 - [Write Articles With AI Speech Recognition and Live Preview!](https://dev.to/moose_said/write-articles-with-ai-speech-recognition-and-live-preview-508k)
 - [BeReadable - Online Multilingual Audio Transcription and Recorder](https://dev.to/moose_said/bereadable-online-multilingual-audio-transcription-and-recorder-a8a)
-- [How I Used Forem API to Fetch Dev.to in Laravel 9](https://dev.to/moose_said/how-i-used-forem-api-to-fetch-devto-in-laravel-9-2p0d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
