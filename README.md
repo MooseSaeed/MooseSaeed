@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add AI Robot 🤖 To Your Portfolio or Company Website](https://dev.to/moose_said/add-ai-robot-to-your-portfolio-or-company-website-3045)
 - [Add AI Bot On Your Website and Have a Conversation With Your Visitors](https://dev.to/moose_said/add-ai-bot-on-your-website-and-have-a-conversation-with-your-visitors-1mi8)
 - [Use Vocal Commands to Apply Markdown to Your Article!](https://dev.to/moose_said/use-vocal-commands-to-apply-markdown-to-your-article-99)
 - [Watch Youtube, Vimeo and Local Videos With Immediate Audio Transcription](https://dev.to/moose_said/online-video-streamer-and-audio-transcription-2ein)
-- [Write Articles With AI Speech Recognition and Live Preview!](https://dev.to/moose_said/write-articles-with-ai-speech-recognition-and-live-preview-508k)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
