@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Dynamic Website with APIs, Without Backend Coding! 😮](https://dev.to/moose_said/how-to-build-dynamic-website-with-apis-without-backend-coding-5g18)
 - [Introducing Tailwinder - Home for Tailwind Fans - Powered with Appwrite 🚀](https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o)
 - [Text Editor with Text to Speech and Speech to Text!!!](https://dev.to/moose_said/text-editor-with-text-to-speech-and-speech-to-text-4l37)
 - [Add AI Robot 🤖 To Your Portfolio or Company Website](https://dev.to/moose_said/add-ai-robot-to-your-portfolio-or-company-website-3045)
-- [Add AI Bot On Your Website and Have a Conversation With Your Visitors](https://dev.to/moose_said/add-ai-bot-on-your-website-and-have-a-conversation-with-your-visitors-1mi8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
