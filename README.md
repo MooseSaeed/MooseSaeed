@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Custom Laravel Validation Rule for Total Uploaded Files Size 🚫✅](https://dev.to/moose_said/create-custom-laravel-validation-rule-for-total-uploaded-files-size-1odb)
 - [Do You Create UML Diagrams For New Projects?](https://dev.to/moose_said/do-you-create-uml-diagrams-for-new-projects-29a8)
 - [Appwrite &amp; Vue E-Commerce &lpar;P1&rpar;: Install Appwrite and Authentication](https://dev.to/moose_said/appwrite-vue-e-commerce-p1-install-appwrite-and-authentication-io8)
 - [What Do You Know About W-BEN Form?](https://dev.to/moose_said/what-do-you-know-about-w-ben-form-40dn)
-- [How to Build Dynamic Website with APIs, Without Backend Coding! 😮](https://dev.to/moose_said/how-to-build-dynamic-website-with-apis-without-backend-coding-5g18)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
