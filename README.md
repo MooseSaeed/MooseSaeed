@@ -12,7 +12,7 @@
 - 📫 How to reach me **mostafasaid1994@gmail.com**
 
 - 📝 I regularly write articles on [https://dev.to/moose_said](https://dev.to/moose_said)
-  📝 I also write on [Kinsta](https://kinsta.com/blog/author/mostafasaid/)
+- 📝 I also write on [Kinsta](https://kinsta.com/blog/author/mostafasaid/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
