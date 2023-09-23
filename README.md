@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mostafa Said</h1>
-<h3 align="center">I'm a Business Operations Specialist who loves Web Development. Both fields are not so different so I'm passionate to provide value and contribute to the community.</h3>
+<h1 align="center">Hi 👋, I'm Mostafa</h1>
+<h3 align="center">Full-stack developer with a knack for all things Laravel, Inertia, and JavaScript frameworks. When I'm not coding, you can find me sharing my knowledge through tutorials, diving into hackathons (and winning a few 🏆), and spreading the love for tech by teaching what I've learned.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moosesaeed" alt="moosesaeed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/moose_said" target="blank"><img src="https://img.shields.io/twitter/follow/moose_said?logo=twitter&style=for-the-badge" alt="moose_said" /></a> </p>
 
-- 🔭 I’m currently working on **ISaidCode!** blog
+- 🔭 I’m currently working at Gfinity Digital Media
 
-- 💬 Ask me about **Laravel, Vue and Tailwind**
+- 💬 Ask me about **Laravel, Vue, Nuxt and Tailwind**
 
 - 📫 How to reach me **mostafasaid1994@gmail.com**
 
 - 📝 I regularly write articles on [https://dev.to/moose_said](https://dev.to/moose_said)
+  📝 I also write on [Kinsta](https://kinsta.com/blog/author/mostafasaid/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
