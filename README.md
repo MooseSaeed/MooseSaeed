@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">Full-stack developer with a knack for all things Laravel, Inertia, and JavaScript frameworks. When I'm not coding, you can find me sharing my knowledge through tutorials, diving into hackathons (and winning a few 🏆), and spreading the love for tech by teaching what I've learned.</h3>
+<h3 align="center">Full-time instructor and full-stack developer with a knack for all things Vue, Laravel, Inertia, and JavaScript frameworks. When I'm not coding, you can find me sharing my knowledge through tutorials, diving into hackathons (and winning a few 🏆), and spreading the love for tech by teaching what I've learned.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moosesaeed" alt="moosesaeed" /></a> </p>
 
