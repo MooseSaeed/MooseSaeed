@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/moose_said" target="blank"><img src="https://img.shields.io/twitter/follow/moose_said?logo=twitter&style=for-the-badge" alt="moose_said" /></a> </p>
 
-- 🔭 I’m currently working at Gfinity Digital Media
+- 🔭 Full time instructor at [@VueSchool](https://vueschool.io/)
 
-- 💬 Ask me about **Laravel, Vue, Nuxt and Tailwind**
+- 💬 Ask me about **Vue, Nuxt, Laravel and Tailwind**
 
 - 📫 How to reach me **mostafasaid1994@gmail.com**
 
