@@ -5,16 +5,7 @@
 <p align="left"> <a href="https://twitter.com/moose_said" target="blank"><img src="https://img.shields.io/twitter/follow/moose_said?logo=twitter&style=for-the-badge" alt="moose_said" /></a> </p>
 
 - 🔭 Full time instructor at [@VueSchool](https://vueschool.io/)
-- 📝 I write on [https://dev.to/moose_said](https://dev.to/moose_said)
-- 📝 I also sometimes write on [Kinsta](https://kinsta.com/blog/author/mostafasaid/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Working with Laravel Jetstream VueJS 3 &amp; InertiaJS with SSR Support](https://dev.to/moose_said/working-with-laravel-jetstream-vuejs-3-inertiajs-with-ssr-support-1ehh)
-- [Create Custom Laravel Validation Rule for Total Uploaded Files Size 🚫✅](https://dev.to/moose_said/create-custom-laravel-validation-rule-for-total-uploaded-files-size-1odb)
-- [Do You Create UML Diagrams For New Projects?](https://dev.to/moose_said/do-you-create-uml-diagrams-for-new-projects-29a8)
-- [Appwrite &amp; Vue E-Commerce &lpar;P1&rpar;: Install Appwrite and Authentication](https://dev.to/moose_said/appwrite-vue-e-commerce-p1-install-appwrite-and-authentication-io8)
-<!-- BLOG-POST-LIST:END -->
+- 📝 I write on [VueSchool](https://vueschool.io/articles/author/mostafa), [Kinsta](https://kinsta.com/blog/author/mostafasaid/), and [dev.to](https://dev.to/moose_said)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
