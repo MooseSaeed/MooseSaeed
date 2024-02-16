@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
-<h3 align="center"> Full-time instructor and full-stack developer </h3>
-
-<p align="left"> <a href="https://twitter.com/moose_said" target="blank"><img src="https://img.shields.io/twitter/follow/moose_said?logo=twitter&style=for-the-badge" alt="moose_said" /></a> </p>
-
-- 🔭 Full time instructor at [@VueSchool](https://vueschool.io/)
+- 🔭 Full-time instructor at [@VueSchool](https://vueschool.io/)
+- Full-stack developer.
 - 📝 I write on [VueSchool](https://vueschool.io/articles/author/mostafa), [Kinsta](https://kinsta.com/blog/author/mostafasaid/), and [dev.to](https://dev.to/moose_said)
 
 <h3 align="left">Connect with me:</h3>
