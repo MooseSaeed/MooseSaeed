@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
-- 🔭 Full-time instructor at [@VueSchool](https://vueschool.io/)
+- Director of Education at [@BitterBrains](https://bitterbrains.com/)
 - Full-stack developer.
 - 📝 I write on [VueSchool](https://vueschool.io/articles/author/mostafa), [Kinsta](https://kinsta.com/blog/author/mostafasaid/), and [dev.to](https://dev.to/moose_said)
 
